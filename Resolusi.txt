@@ -1,0 +1,3 @@
+Komitmen untuk:
+1. Konsisten untuk koding 2x seminggu.
+2. Membuat platform sendiri.
